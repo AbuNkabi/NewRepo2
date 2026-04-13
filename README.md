@@ -107,7 +107,7 @@ A GitHub Actions workflow is configured to:
 
 * Build the project automatically
 * Check for errors on every push
-
+MAKE SURE YOUR WORKFLOW IS SUCCESSFUL
 
 
 ##  Video Presentation
