@@ -114,7 +114,7 @@ MAKE SURE YOUR WORKFLOW IS SUCCESSFUL
 
 A full video demonstration of this project is available here:
 
- *(Insert your unlisted YouTube link here)*
+ *([Insert your unlisted YouTube link here](https://youtu.be/0dgnAqn_ywQ?si=iSl8x8RP0yXiY63C))*
 
 The video includes:
 
